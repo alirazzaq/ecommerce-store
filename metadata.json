@@ -1,0 +1,5 @@
+{
+  "name": "React Tailwind E-Commerce",
+  "description": "A clean and responsive eCommerce website built with React, Tailwind CSS, and TypeScript. Features product listings, cart, checkout, and an admin panel for managing products and orders.",
+  "requestFramePermissions": []
+}
